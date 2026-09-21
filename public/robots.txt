@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://link.dolphin-laundry-kupang.biz.id/sitemap.xml
